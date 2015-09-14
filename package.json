@@ -1,0 +1,24 @@
+{
+  "name": "from-me-to-you",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldmcdaniel/from-me-to-you.git"
+  },
+  "author": "Lucas McDaniel <ldmcdaniel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ldmcdaniel/from-me-to-you/issues"
+  },
+  "homepage": "https://github.com/ldmcdaniel/from-me-to-you#readme",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "jquery": "^2.1.4"
+  }
+}
